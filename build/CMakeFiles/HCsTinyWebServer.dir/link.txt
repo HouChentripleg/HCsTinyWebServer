@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/HCsTinyWebServer.dir/main.cpp.o  -o HCsTinyWebServer libTinyWebServer.so -Wl,-rpath,/home/linux/AKprojects/myTinyWebServer/build 
